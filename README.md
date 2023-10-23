@@ -39,6 +39,6 @@ The [tisean package](https://www.pks.mpg.de/~tisean/archive_3.0.0.html) is used 
 
 Source code structure:
 
-![structure](https://github.com/spirsanto/okn-dynamics/assets/81776518/44cc4b51-aad7-44fb-aea6-3855bedf1176)
+![structure](https://github.com/spirsanto/okn-dynamics/assets/81776518/82f0bead-a572-44c5-bfc2-19993bd75023)
 
 Should you encounter any further issues, please report them directly using the issues tab.
